@@ -2,7 +2,7 @@
 
 hora = 6
 despertador = 6.5
-silenciar = 
+silenciar = 0
 
 while hora <= 8:
     print("Acordar")
